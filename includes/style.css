@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+body {
+    background: #673AB7;
+}
+.wrapper{
+    width: 1140px;
+    margin: auto;
+}
+.frame{
+    width: 700px;
+    height: 900px;
+    margin: 0px auto;
+    mask-image: url(mask-image.png); /* The wrapper will take the shape of this image */
+    -webkit-mask-image: url(mask-image.png);  /* webkit is uded for browser support */
+    mask-repeat: no-repeat; /* it has used for stop repeating the mask image */
+    -webkit-mask-repeat: no-repeat;
+    mask-size: 100%; /* it has used for giving the size */
+    -webkit-mask-size: 100% ;
+} 
+
+/*----------- You guys can google and play with it to learn more. Forgive me if i made amy mistake ------------*/
