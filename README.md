@@ -15,5 +15,9 @@ mask-size: 100%;
 -webkit-mask-size: 100% ;    
 ```
 
+## Live Demo
+
+[Demo](https://coderkhalide.github.io/css-image-mask/)
+
 ## Google Drive
 [Video and file](https://drive.google.com/drive/folders/1N7YQvHZQtRQb39AfRpiDV317Vw1USfEa?usp=sharing)
