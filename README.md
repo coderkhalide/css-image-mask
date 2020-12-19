@@ -4,6 +4,8 @@ Masks share a lot in common with backgrounds in that you can size them, position
 
 The mask-image property can also be used directly inside SVG elements too.
 
+**Note :** use live server while using on local.
+
 ## Usage
 
 ```css
